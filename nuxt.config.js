@@ -1,6 +1,6 @@
 export default {
     target: 'static',
-    router: {
-        base: '/theladderprimer.github.io/'
+    app: {
+        baseURL: '/theladderprimer.github.io/'
     }
 }
