@@ -1,6 +1,6 @@
 <template>
   <div class="h-screen bg-mizzle">
-    <Header />
+    <Header2 />
     <slot></slot>
   </div>
 </template>
