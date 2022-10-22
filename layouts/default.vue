@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen bg-mizzle">
+  <div class="min-h-screen bg-mizzle">
     <Header2 />
     <slot></slot>
   </div>

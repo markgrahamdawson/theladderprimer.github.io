@@ -1,8 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div class="h-screen m-10">
-
+  <div class="p-10">
     <div class="flex">
       <div>
         <img src="https://www.falmouthpacket.co.uk/resources/images/10750109.jpg?type=mds-article-962" alt="Passmore Edwards Library">
@@ -26,6 +25,9 @@
         </p>
         <p class="m-2">
           He provided institutes in Blackwater (his home village), Chacewater, Hayle, Truro and Mithian and schools in St Day, Helston and Launceston. He also gave money to hospitals in Liskeard, London and the south of east of England.
+        </p>
+        <p class="m-2">
+          The Library has been deralict since 20?? the roof requires significant repairs to the interior refurbishing before it can be reopened.
         </p>
       </div>
 

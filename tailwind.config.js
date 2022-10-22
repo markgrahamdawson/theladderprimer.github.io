@@ -18,7 +18,7 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        'mizzle': '#bfc5b8',
+        mizzle: '#bfc5b8',
       }
     },
   },

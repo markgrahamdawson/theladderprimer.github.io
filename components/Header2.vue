@@ -47,6 +47,9 @@
               <NuxtLink href="/rift" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Rift</NuxtLink>
 
               <NuxtLink href="/webappbuild" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Web App Build</NuxtLink>
+            
+              <NuxtLink href="/webappdesign" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Web App Design</NuxtLink>
+
             </div>
           </div>
         </div>
