@@ -2,6 +2,9 @@
 export default defineNuxtConfig({
   css: ["@/assets/css/styles.css"],
   target: 'static',
+  router: {
+    base: '/theladderprimer.github.io/'
+  },
   app: {
     baseURL: '/theladderprimer.github.io/'
   },
