@@ -13,4 +13,18 @@ export default defineNuxtConfig({
       postcssOptions: require("./postcss.config.js"),
     },
   },
+  // buildModules: [
+  //   '@nuxtjs/google-fonts'
+  // ],
+  // googleFonts: {
+  //   families: {
+  //     Inter: true,
+  //     'Amatic+CS': true,
+  //     Lato: [100, 300],
+  //     Raleway: {
+  //       wght: [100, 400],
+  //       ital: [100]
+  //     },
+  //   }
+  // }
 })

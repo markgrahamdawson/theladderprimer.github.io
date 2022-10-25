@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-gray-800">
+  <nav class="bg-teal">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
         <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -35,20 +35,20 @@
           </div> -->
           <NuxtLink href="/" class="flex items-center">
             <Ladder class="rotate-45"/>
-            <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">TheLadder Web App Build</span>
+            <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-black">TheLadder Web App Build</span>
           </NuxtLink>
           <div class="hidden sm:ml-6 sm:block">
             <div class="flex space-x-4">
               <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
               <NuxtLink href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</NuxtLink>
 
-              <NuxtLink href="/library" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Library</NuxtLink>
+              <NuxtLink href="/library" class="text-gray-300 hover:bg-brightyellow hover:text-black px-3 py-2 rounded-md text-sm font-medium">Library</NuxtLink>
 
-              <NuxtLink href="/rift" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Rift</NuxtLink>
+              <NuxtLink href="/rift" class="text-gray-300 hover:bg-brightyellow hover:text-black px-3 py-2 rounded-md text-sm font-medium">Rift</NuxtLink>
 
-              <NuxtLink href="/webappbuild" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Web App Build</NuxtLink>
+              <NuxtLink href="/webappbuild" class="text-gray-300 hover:bg-brightyellow hover:text-black px-3 py-2 rounded-md text-sm font-medium">Web App Build</NuxtLink>
             
-              <NuxtLink href="/webappdesign" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Web App Design</NuxtLink>
+              <NuxtLink href="/webappdesign" class="text-gray-300 hover:bg-brightyellow hover:text-black px-3 py-2 rounded-md text-sm font-medium">Web App Design</NuxtLink>
 
             </div>
           </div>

@@ -2,7 +2,7 @@
 
 <template>
   <div class="p-10">
-    <div class="flex">
+    <div class="md:flex">
       <div>
         <img src="https://www.falmouthpacket.co.uk/resources/images/10750109.jpg?type=mds-article-962" alt="Passmore Edwards Library">
         <p class="m-8">Passmore Edwards Free Library and former Redruth College, and boundary walls is a Grade II listed building in Redruth, Cornwall, England.</p>
