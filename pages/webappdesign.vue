@@ -26,7 +26,7 @@
             The full brand guidelines are <a href="https://github.com/markgrahamdawson/theladderprimer.github.io/blob/gh-pages-bd0a239/static/The_ladder_brand_guidelines_01.pdf" class="text-teal">here</a>
           </div>
           <div>
-              <embed src="/static/The_ladder_brand_guidelines_01.pdf" width="1200px" height="900" />
+              <embed src="/static/The_ladder_brand_guidelines_01.pdf" width="1000px" height="900" />
           </div>
         </div>
       </div>

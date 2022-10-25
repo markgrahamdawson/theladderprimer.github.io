@@ -21,13 +21,13 @@
           In Cornwall, he provided free libraries in St Ives, Camborne, Redruth, Falmouth, Truro, Liskeard, Bodmin, and Launceston. He also paid for a free library in Newton Abbot, Devon, and a further 16 libraries in the poorest areas of London.
         </p>
         <p class="m-2">
-          He also gave money for new schools in Cornwall and London, including the London School of Economics.
-        </p>
-        <p class="m-2">
           He provided institutes in Blackwater (his home village), Chacewater, Hayle, Truro and Mithian and schools in St Day, Helston and Launceston. He also gave money to hospitals in Liskeard, London and the south of east of England.
         </p>
         <p class="m-2">
-          The Library has been deralict since 20?? the roof requires significant repairs to the interior refurbishing before it can be reopened.
+          The Library was built by Redruth’s principal 19th century architect, James Hicks, in 1894
+        </p>
+        <p class="m-2">
+          The Library has been deralict for many years the roof requires significant repairs and interior refurnishment before it can be reopened.
         </p>
       </div>
 
