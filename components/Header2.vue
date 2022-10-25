@@ -103,6 +103,9 @@
         <NuxtLink href="/rift" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Rift</NuxtLink>
 
         <NuxtLink href="/webappbuild" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Webb App Build</NuxtLink>
+
+        <NuxtLink href="/webappdesign" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Webb App Design</NuxtLink>
+
       </div>
     </div>
   </nav>
